@@ -1,0 +1,51 @@
+.content {
+    padding: 20px;
+}
+.quienes-somos {
+    background-color: #003366;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.cta {
+    background-color: #005b96;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.cta a {
+    background-color: #0074cc;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.cta a:hover {
+    background-color: #005b96;
+}
+footer {
+    background-color: #002244;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+.tabla1 table,th,td{
+    padding: auto;
+    text-align: center;
+    border-radius: 20px;
+    font-size: 30px;
+}
+
+.content-inicio{
+    display: flex;
+    flex-direction:column;
+    padding: 30px;
+}
+.content-inicio img{
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
