@@ -3,6 +3,7 @@ body {
     margin: 0;
     box-sizing: border-box;
     font-family:Montserrat ;
+
 }
 header {
     background-color: #003366;
@@ -23,6 +24,11 @@ nav a:hover {
     background-color: #0074cc;
 }
 
+.enlaces{
+    display: flex;
+    justify-content: space-between;
+    background-color: #005b96;
+}
 
 @media(max-width:680px){
     header{
